@@ -66,6 +66,6 @@ I'm constantly exploring new technologies and refining my skills. Currently focu
 
 ## 📫 How to Reach Me
 
-- ![Email](https://img.icons8.com/color/24/gmail.png) **Email**: [besanayman2002@gmail.com](besanayman2002@gmail.com) 
-- ![LinkedIn](https://img.icons8.com/color/27/linkedin.png) **LinkedIn**: [https://www.linkedin.com/in/bisan-abu-zubaida/](https://www.linkedin.com/in/bisan-abu-zubaida/) 
+- **Email**: [besanayman2002@gmail.com](mailto:besanayman2002@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/bisan-abu-zubaida/](https://www.linkedin.com/in/bisan-abu-zubaida/) 
 
