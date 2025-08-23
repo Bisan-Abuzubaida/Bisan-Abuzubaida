@@ -59,7 +59,7 @@ I'm constantly exploring new technologies and refining my skills. Currently focu
 
 ---
 
-## 💬 [Let’s Build Something Amazing]
+## 💬 Let’s Build Something Amazing
 🚀 I love collaborating with fellow developers, creators, and problem-solvers. If you're working on an open-source project or have a cool idea, [let's connect!](https://www.linkedin.com/in/bisan-abu-zubaida/) 
 
 ---
