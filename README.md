@@ -40,7 +40,7 @@ Here, you'll find a variety of projects that reflect my commitment to clarity, r
 ## 🔭 Projects
 
 ### 📌 Credit Card Fraud Detection
-
+🚀 This system beat Kaggle’s best-rated solutions on the imbalanced Credit Card Fraud dataset. Using hybrid sampling (SMOTE + undersampling) with Random Forest, it achieved 99.95% accuracy, 85.7% recall, and 86.6% precision on fraud cases.
 
 ### 📌 Sales Prediction  
 
